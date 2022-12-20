@@ -278,9 +278,6 @@ form {
   display: none;
 }
 
-.coded_by {
- display: none;
-}
 
 @keyframes wiggle {
   0% {
@@ -422,10 +419,6 @@ form {
   margin-top: 2em;
 }
 
-.coded_by {
-  position: absolute;
-  top: 90%;
-}
 
 .thank-you {
   margin-top: 1.5em;
