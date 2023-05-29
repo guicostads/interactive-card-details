@@ -1,7 +1,7 @@
 # interactive-card-details
 Interactive card details - Made with HTML, CSS and vanilla JS.
 
-PS: O navegador pode identificar o site como fraudulento, mas possui apenas a interface de usuário. Os dados inseridos não seram registrados em lugar nenhum.
+PS: O navegador pode identificar o site como fraudulento, mas possui apenas a interface de usuário. Os dados inseridos não serão registrados em lugar nenhum.
 
 ### Screenshots
 
